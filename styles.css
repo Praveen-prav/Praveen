@@ -226,7 +226,7 @@ p {
     height: 40px;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
     * {
         width: 1;
         padding: 1;
@@ -330,6 +330,6 @@ p {
     }
 
     .cont {
-        font-size: 0.8rem;
+        font-size: 0.6rem;
     }
 }
